@@ -19,3 +19,4 @@ m = int(input("세로의 숫자를 입력하시오 : "))
 
 for i in range(m):
     print('★'*n) #print 문에 *연산을 쓰면 여러번 반복한다.
+
